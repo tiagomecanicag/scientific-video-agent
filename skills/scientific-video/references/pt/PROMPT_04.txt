@@ -1,0 +1,15 @@
+Prompt 04 — Linguagem visual e identidade
+
+Esta é a etapa 04. Use o artigo, a narrativa e o roteiro aprovados. Siga as Regras comuns.
+
+Defina uma linguagem visual coerente com o tema e com a identidade institucional fornecida. Especifique: estilo, paleta, tipografia, fundo, iluminação, composição, aparência do protagonista e convenções para dados, modelos e experimentos.
+
+Use 1080 × 1920 pixels (largura × altura), vertical 9:16, como padrão para imagens, gráficos, composição e vídeo final. Só use outra resolução ou proporção mediante pedido explícito do usuário na revisão e registre essa decisão. Planeje a área segura antes da produção; não suponha que um recorte central posterior sempre preservará o conteúdo.
+
+Defina como distinguir dados experimentais, resultados de simulação e ilustrações conceituais por cor, forma ou traçado. Evite depender apenas da cor. Preserve unidades, escalas e identidades das séries entre cenas.
+
+Para gráficos quantitativos, use os dados fornecidos. Se houver apenas uma figura, informe as limitações de reconstrução e identifique estimativas. Não altere resultados para melhorar a aparência. Sem dados, proponha uma ilustração conceitual explicitamente identificada e solicite validação.
+
+Entregue um guia visual compacto, a lista de elementos cuja identidade deve permanecer constante e as restrições de representação. Reutilize referências aprovadas já existentes. Não redesenhe esses materiais sem necessidade e aprovação.
+
+Solicite aprovação do guia antes de produzir a sequência de imagens. Atualize o registro e pare.

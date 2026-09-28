@@ -1,0 +1,17 @@
+- Project and version:
+- Paper and sources:
+- Approved claims and limitations:
+- Audience, channel, language and message:
+- Scientific protagonist and visual representation:
+- Approved narrative:
+- Format and safe area:
+- Available tools and tools pending confirmation:
+- Stated budget or constraints:
+- Segment count and total running time:
+- Approved visual guide:
+- For each segment: ID, duration, narration, IN, OUT, clip, actual closing frame, version and status:
+- Approvals: stage, version, decision and person responsible, where provided:
+- Outstanding issues and changes affecting earlier stages:
+- Next authorised stage:
+
+Useful statuses: in preparation → under review → approved → in production → exported → verified. “Approved” must always specify what was approved: interpretation, image, animatic, clip or publication.

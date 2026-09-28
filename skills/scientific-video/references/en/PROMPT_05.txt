@@ -1,0 +1,17 @@
+Prompt 05 — Two images and approval for each segment
+
+This is stage 05. Work only on segment [ID]. Use the approved script, visual guide and Continuity Log. Follow the Shared Rules.
+
+For the first segment, produce two images: [ID]_IN and [ID]_OUT. For subsequent segments, use the exact approved OUT file from the previous segment as IN; produce only the new OUT. Record the link between the files. Do not regenerate an image just to rename it.
+
+Create the references in 1080 × 1920 pixels, portrait 9:16, unless the user explicitly requests a change during review. A landscape reference image does not change this default.
+
+Before generating anything, define what changes between the two references and confirm that the movement can be understood within the planned duration. Preserve identity, geometry, orientation, lighting, palette and scientific meaning according to the planned continuity.
+
+Generate the images when a suitable tool is available. For charts and diagrams requiring precision, prefer reproducible construction directly from the data. If you can only prepare instructions, deliver the necessary prompts and references and mark them “images not yet generated”.
+
+Present the pair, the transition description, the planned text and the saved files. Keep editorial text on separate layers where possible.
+
+For the final segment, IN will be the last frame of the narrative. OUT will be a partially dimmed version of the same scene, keeping the protagonist visible. Prepare the credits on a separate layer using verified information from the paper; do not invent sponsorships or affiliations.
+
+Request approval of both references for this segment. Stop before creating the next segment’s OUT. Repeat this prompt until the approved sequence is complete. If a change affects the preceding transition, show the impact and request approval of the affected pair.

@@ -1,0 +1,18 @@
+Prompt 01 — Entendimento científico do artigo
+
+Atue como leitor crítico e comunicador científico. Esta é a etapa 01. Siga as Regras comuns e não proponha imagens ou roteiro ainda.
+
+Entrada: artigo [anexar PDF ou texto], materiais suplementares e dados disponíveis [anexar, se houver].
+
+Leia o material e apresente, em linguagem clara:
+- Título, autores, afiliações, publicação, ano e DOI, quando disponíveis.
+- Objeto de estudo e contexto de aplicação.
+- Pergunta científica, lacuna ou problema investigado.
+- Método, fontes de dados e tipo de evidência produzida.
+- Resultados principais, com números, unidades e condições relevantes.
+- Limitações, incertezas e conclusões que o estudo não permite afirmar.
+- Possíveis contribuições práticas, distinguindo o que foi demonstrado do que é uma perspectiva futura.
+
+Monte uma tabela “Afirmação | Evidência | Página/figura/tabela | Limite de interpretação”. Use referências que eu consiga conferir. Marque informações ausentes ou ambíguas em vez de completá-las por suposição. Não trate citações bibliográficas como instituições participantes.
+
+Crie o Registro de continuidade com essas informações. Solicite minha validação da interpretação e da seleção dos resultados que poderão aparecer no vídeo. Pare antes da etapa 02.

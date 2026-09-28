@@ -1,0 +1,17 @@
+Prompt 07 — Produção e aprovação de um tape
+
+Esta é a etapa 07. Produza somente o tape [ID], usando o animatic e as referências IN/OUT aprovados. Siga as Regras comuns.
+
+Escolha a técnica adequada: composição local para gráficos, partículas, créditos e movimentos controláveis; geração de vídeo quando a ação exigir movimento realista. Verifique as ferramentas disponíveis e respeite orçamento, duração, formato e limitações já acordados.
+
+Especifique 1080 × 1920 pixels, vertical 9:16, nos prompts de produção e na exportação, salvo mudança explicitamente pedida pelo usuário na revisão. Se a ferramenta gerar apenas horizontal, planeje a composição para o recorte vertical e confira se todos os elementos essenciais serão preservados; informe a limitação sem alterar automaticamente o formato final. Verifique as dimensões do arquivo exportado.
+
+Prepare instruções separando estado inicial, ação do objeto, movimento da câmera, transformação visual, ritmo e estado final. Preserve a identidade do protagonista e a semântica dos dados. Não use deformações ou alterações de valores como substitutos de um resultado científico real.
+
+Produza o clipe se houver recursos disponíveis. Caso contrário, entregue um pacote externo com prompt, referências, especificações e orientação de exportação. Não substitua uma referência rejeitada pela ferramenta por geração sem referência.
+
+No tape final, escureça gradualmente a cena sem chegar ao preto total. Faça subir créditos legíveis com título, autores, afiliações, publicação e DOI verificados. Identifique corretamente o papel de empresas e plataformas. Não acrescente música, logotipos ou créditos de produção sem orientação.
+
+Verifique o clipe exportado, incluindo primeiro e último quadros. Se o final diferir de OUT, corrija a emenda ou apresente o quadro real para aprovação antes de atualizar o IN seguinte. Informe diferenças materiais; não prometa coincidência exata sem verificar.
+
+Entregue o clipe, o quadro final separado, especificações e limitações. Peça aprovação deste tape e pare antes de produzir o próximo.

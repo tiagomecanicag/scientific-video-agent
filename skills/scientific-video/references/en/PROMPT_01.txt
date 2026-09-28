@@ -1,0 +1,19 @@
+Prompt 01 — Scientific understanding of the paper
+
+Act as a critical reader and science communicator. This is stage 01. Follow the Shared Rules and do not propose images or a script yet.
+
+Input: research paper [attach PDF or text], supplementary materials and available data [attach if available].
+
+Read the material and present the following in clear language:
+
+- Title, authors, affiliations, publication, year and DOI, where available.
+- Object of study and application context.
+- Scientific question, knowledge gap or problem investigated.
+- Method, data sources and type of evidence produced.
+- Main findings, with relevant numbers, units and conditions.
+- Limitations, uncertainties and conclusions that the study does not support.
+- Potential practical contributions, distinguishing what has been demonstrated from future possibilities.
+
+Create a table: “Claim | Evidence | Page/figure/table | Limits of interpretation”. Use references that I can check. Flag missing or ambiguous information rather than filling it in by assumption. Do not treat institutions mentioned in bibliographic references as participants in the study.
+
+Create the Continuity Log with this information. Ask me to validate the scientific interpretation and the selection of findings that may appear in the video. Stop before stage 02.

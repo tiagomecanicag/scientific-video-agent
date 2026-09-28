@@ -1,0 +1,17 @@
+Prompt 07 — Production and approval of one segment
+
+This is stage 07. Produce only segment [ID], using the approved animatic and IN/OUT references. Follow the Shared Rules.
+
+Choose the appropriate technique: local compositing for charts, particles, credits and controlled movement; video generation when the action requires realistic motion. Check the available tools and respect the agreed budget, duration, format and limitations.
+
+Specify 1080 × 1920 pixels, portrait 9:16, in production prompts and exports unless the user explicitly requests a change during review. If a tool only generates landscape footage, plan the composition for a portrait crop and check that all essential elements will be preserved; disclose the limitation without automatically changing the final format. Verify the exported file dimensions.
+
+Prepare instructions that distinguish the opening state, subject action, camera movement, visual transformation, pacing and closing state. Preserve the protagonist’s identity and the meaning of the data. Do not use deformations or changes to values as substitutes for an actual scientific result.
+
+Produce the clip if the resources are available. Otherwise, deliver an external production package with the prompt, references, specifications and export instructions. Do not respond to a tool rejecting a reference by generating without that reference.
+
+For the final segment, gradually dim the scene without fading completely to black. Add legible upward-scrolling credits with the verified title, authors, affiliations, publication and DOI. Identify the roles of companies and platforms correctly. Do not add music, logos or production credits without direction.
+
+Check the exported clip, including its first and last frames. If the ending differs from OUT, correct the transition or present the actual frame for approval before updating the next IN. Disclose material differences; do not promise an exact match without checking it.
+
+Deliver the clip, its closing frame as a separate image, specifications and limitations. Request approval of this segment and stop before producing the next one.

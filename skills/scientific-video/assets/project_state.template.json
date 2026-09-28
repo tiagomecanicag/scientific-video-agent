@@ -1,0 +1,103 @@
+{
+  "schema_version": 1,
+  "agent_version": "0.1.0",
+  "project_id": null,
+  "title": null,
+  "language": null,
+  "created_at": null,
+  "sources": [],
+  "audience": null,
+  "channel": null,
+  "narration_language": null,
+  "on_screen_language": null,
+  "message": null,
+  "scientific_protagonist": null,
+  "visual_representation": null,
+  "format": {
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "orientation": "portrait",
+    "basis": "default_recommendation",
+    "user_requested_change": null
+  },
+  "safe_area": null,
+  "tools": [],
+  "budget": null,
+  "segment_count": null,
+  "total_duration_seconds": null,
+  "stages": {
+    "01": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    },
+    "02": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    },
+    "03": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    },
+    "04": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    },
+    "05": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    },
+    "06": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    },
+    "07": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    },
+    "08": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    },
+    "09": {
+      "status": "pending",
+      "version": null,
+      "artifacts": [],
+      "approvals": [],
+      "notes": []
+    }
+  },
+  "segments": [],
+  "exceptions": [],
+  "pending_issues": [],
+  "publication": {
+    "status": "not_published",
+    "channel": null,
+    "authorization": null,
+    "evidence": null
+  }
+}

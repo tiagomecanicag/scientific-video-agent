@@ -1,0 +1,17 @@
+Prompt 05 — Duas imagens e validação de cada tape
+
+Esta é a etapa 05. Trabalhe somente no tape [ID]. Use roteiro, guia visual e Registro de continuidade aprovados. Siga as Regras comuns.
+
+No primeiro tape, produza duas imagens: [ID]_IN e [ID]_OUT. Nos demais, use exatamente o arquivo OUT aprovado do tape anterior como IN; produza somente o novo OUT. Registre a ligação entre arquivos. Não regenere uma imagem apenas para mudar seu nome.
+
+Crie as referências em 1080 × 1920 pixels, vertical 9:16, salvo mudança explicitamente pedida pelo usuário na revisão. Uma imagem de referência horizontal não altera esse padrão.
+
+Antes de gerar, defina o que muda entre as duas referências e confirme que o movimento pode ser compreendido no tempo previsto. Preserve identidade, geometria, orientação, iluminação, paleta e significado científico conforme a continuidade planejada.
+
+Gere as imagens quando houver ferramenta adequada. Para gráficos e diagramas que exigem precisão, prefira construção determinística a partir de dados. Se só for possível preparar instruções, entregue os prompts e referências necessários e marque “imagens ainda não geradas”.
+
+Apresente o par, a descrição da transição, os textos previstos e os arquivos salvos. Mantenha textos editoriais em camadas separadas quando possível.
+
+No tape final, IN será o último quadro da narrativa. OUT será uma versão parcialmente escurecida da mesma cena, mantendo o protagonista visível. Prepare os créditos em camada separada, com informações verificadas do artigo; não invente patrocínios ou afiliações.
+
+Peça aprovação das duas referências deste tape. Pare antes de criar o OUT do próximo. Repita este prompt até concluir a sequência aprovada. Se uma alteração afetar a emenda anterior, mostre o impacto e peça validação do par afetado.

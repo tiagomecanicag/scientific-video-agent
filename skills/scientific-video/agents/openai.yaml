@@ -1,0 +1,4 @@
+interface:
+  display_name: "Scientific Video · PT / EN"
+  short_description: "Artigos em vídeos / Research papers into videos"
+  default_prompt: "Use $scientific-video to turn my research paper into a video, with approval at each stage."

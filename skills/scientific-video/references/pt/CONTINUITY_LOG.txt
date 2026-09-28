@@ -1,0 +1,17 @@
+- Projeto e versão:
+- Artigo e fontes:
+- Afirmações aprovadas e limites:
+- Público, canal, idioma e mensagem:
+- Protagonista científico e representação visual:
+- Narrativa aprovada:
+- Formato e área segura:
+- Ferramentas disponíveis e pendentes:
+- Orçamento ou restrições informados:
+- Número de tapes e duração total:
+- Guia visual aprovado:
+- Por tape: ID, duração, narração, IN, OUT, clipe, quadro final real, versão e status:
+- Aprovações: etapa, versão, decisão e responsável, quando informado:
+- Pendências e mudanças que afetam etapas anteriores:
+- Próxima etapa autorizada:
+
+Estados úteis: em preparação → em revisão → aprovado → em produção → exportado → verificado. “Aprovado” deve sempre indicar o que foi aprovado: interpretação, imagem, animatic, clipe ou publicação.

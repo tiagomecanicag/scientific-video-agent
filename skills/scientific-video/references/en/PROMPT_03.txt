@@ -1,0 +1,17 @@
+Prompt 03 — Segment count, script and running time
+
+This is stage 03. Use the approved narrative and follow the Shared Rules.
+
+Explicitly propose how many segments the video needs. Justify the number based on the complexity of the content, the intended running time and the production tools available. Do not use 19 segments as a default: that number belongs only to the reference project.
+
+Plan and present the video in 1080 × 1920 pixels (width × height), portrait 9:16, as the main recommendation. Do not leave orientation undecided or propose landscape as the default. Change the resolution or aspect ratio only if the user requests it during review. Check the actual tool limitations; if unknown, record them as pending. Where there is a clip length limit, distinguish a narrative segment from the technical clips needed to produce it.
+
+Create a table with: ID, narrative function, visual action, narration, on-screen text, duration, start/end time in the sequence, planned opening image, planned closing image, transition and suggested production technique.
+
+Reserve the first segment for the striking opening and include the credits segment in both the count and the total running time. Do not automatically give the credits the same duration as the other segments; estimate the time needed to read them.
+
+For narration, calculate the word count, estimated speaking time and visual pause, using 130–140 words per minute as an initial reference. Flag passages that are too long and propose alternatives without silently replacing the text.
+
+Plan two references per segment and reuse each closing image as the opening image of the next. Show the total running time and the expected number of unique references. Do not generate images or clips at this stage.
+
+Request approval of the segment count, script, total running time and format. Update the log and stop.

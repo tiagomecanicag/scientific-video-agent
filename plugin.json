@@ -1,0 +1,25 @@
+{
+  "name": "scientific-video-agent",
+  "version": "0.1.0+codex.20260928173642",
+  "description": "Bilingual PT/EN research-paper-to-video workflow with nine researcher approval stages.",
+  "author": {
+    "name": "Scientific Video Kit"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Scientific Video \u00b7 PT / EN",
+    "shortDescription": "Artigos em v\u00eddeos / Research papers into videos",
+    "longDescription": "A guided science communication workflow: nine stages, explicit researcher approvals, shared reference frames and saved project continuity. Portuguese and English. Media production uses the tools available in your environment.",
+    "developerName": "Scientific Video Kit",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Use $scientific-video para transformar meu artigo em v\u00eddeo, com valida\u00e7\u00f5es.",
+      "Use $scientific-video to turn my paper into a video, with approval at each stage.",
+      "Use $scientific-video para retomar meu projeto a partir do registro de continuidade."
+    ]
+  }
+}

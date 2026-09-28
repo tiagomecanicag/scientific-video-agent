@@ -1,0 +1,22 @@
+{
+  "id": null,
+  "duration_seconds": null,
+  "role": null,
+  "narration": null,
+  "references": {
+    "status": "pending",
+    "version": null,
+    "in": null,
+    "out": null,
+    "approvals": []
+  },
+  "production": {
+    "status": "pending",
+    "version": null,
+    "clip": null,
+    "actual_first_frame": null,
+    "actual_last_frame": null,
+    "continuity_review": null,
+    "approvals": []
+  }
+}

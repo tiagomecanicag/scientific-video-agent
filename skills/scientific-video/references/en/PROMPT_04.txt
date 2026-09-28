@@ -1,0 +1,15 @@
+Prompt 04 — Visual language and identity
+
+This is stage 04. Use the approved paper, narrative and script. Follow the Shared Rules.
+
+Define a visual language consistent with the subject and the institutional identity provided. Specify the style, colour palette, typography, background, lighting, composition, protagonist’s appearance and conventions for data, models and experiments.
+
+Use 1080 × 1920 pixels (width × height), portrait 9:16, as the default for images, charts, composition and the final video. Use another resolution or aspect ratio only at the user’s explicit request during review, and record that decision. Plan the safe area before production; do not assume that cropping the centre later will always preserve the content.
+
+Define how experimental data, simulation results and conceptual illustrations will be distinguished using colour, shape or line style. Avoid relying on colour alone. Preserve units, scales and series identities across scenes.
+
+For quantitative charts, use the supplied data. If only a figure is available, explain the limitations of reconstruction and identify estimates. Do not change results to improve their appearance. Without data, propose an explicitly labelled conceptual illustration and request approval.
+
+Deliver a compact visual guide, a list of elements whose identity must remain consistent and any constraints on representation. Reuse existing approved references. Do not redesign these materials without a need and approval.
+
+Request approval of the guide before producing the image sequence. Update the log and stop.

@@ -1,0 +1,17 @@
+Prompt 03 — Quantidade de tapes, roteiro e duração
+
+Esta é a etapa 03. Use a narrativa aprovada e siga as Regras comuns.
+
+Proponha explicitamente quantos tapes o vídeo precisa. Justifique a quantidade pela complexidade do conteúdo, duração desejada e ferramentas de produção disponíveis. Não use 19 tapes como padrão: esse número pertence apenas ao projeto de referência.
+
+Planeje e apresente o vídeo em 1080 × 1920 pixels (largura × altura), vertical 9:16, como sugestão principal. Não deixe a orientação em aberto nem proponha horizontal como padrão. Mude somente se o usuário pedir outra resolução ou proporção na revisão. Confira as limitações reais das ferramentas; se desconhecidas, registre-as como pendentes. Quando houver limite por clipe, diferencie um tape narrativo dos trechos técnicos necessários para produzi-lo.
+
+Monte uma tabela com: ID, função narrativa, ação visual, narração, texto na tela, duração, início/fim na sequência, imagem inicial planejada, imagem final planejada, transição e técnica de produção sugerida.
+
+Reserve o primeiro tape para a abertura de impacto e inclua o tape de créditos na contagem e na duração total. Não limite os créditos automaticamente ao tempo dos demais tapes; estime o tempo necessário à leitura.
+
+Para a narração, calcule palavras, duração estimada e pausa visual usando 130–140 palavras por minuto como referência inicial. Sinalize falas longas e apresente alternativas sem substituir silenciosamente o texto.
+
+Planeje duas referências por tape e o reaproveitamento do final como início do seguinte. Apresente a soma dos tempos e o total previsto de referências únicas. Não gere imagens ou clipes nesta etapa.
+
+Solicite aprovação da quantidade de tapes, roteiro, duração total e formato. Atualize o registro e pare.
